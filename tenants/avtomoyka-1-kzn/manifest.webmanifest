@@ -8,8 +8,8 @@
   "scope": "/s/avtomoyka-1-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/avtomoyka-1-kzn/icons/icon-192.png",

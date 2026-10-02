@@ -8,8 +8,8 @@
   "scope": "/s/bravo-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F5F5F2",
-  "theme_color": "#F5F5F2",
+  "background_color": "#0A0A08",
+  "theme_color": "#0A0A08",
   "icons": [
     {
       "src": "/tenants/bravo-kzn/icons/icon-192.png",

@@ -1,15 +1,15 @@
 {
   "id": "/s/tsentr-tonirovaniya-i-zameny-kzn/",
   "name": "Центр тонирования и замены автостекол",
-  "short_name": "Центр тониро",
+  "short_name": "Центр",
   "description": "Тонирование автостёкол, установка и ремонт автостёкол в Зеленодольск. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/tsentr-tonirovaniya-i-zameny-kzn/",
   "scope": "/s/tsentr-tonirovaniya-i-zameny-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/tsentr-tonirovaniya-i-zameny-kzn/icons/icon-192.png",

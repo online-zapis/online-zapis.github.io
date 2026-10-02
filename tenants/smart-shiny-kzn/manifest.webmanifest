@@ -8,8 +8,8 @@
   "scope": "/s/smart-shiny-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0C0D0B",
-  "theme_color": "#0C0D0B",
+  "background_color": "#0B0C0A",
+  "theme_color": "#0B0C0A",
   "icons": [
     {
       "src": "/tenants/smart-shiny-kzn/icons/icon-192.png",

@@ -8,8 +8,8 @@
   "scope": "/s/sto-mashin-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/sto-mashin-kzn/icons/icon-192.png",

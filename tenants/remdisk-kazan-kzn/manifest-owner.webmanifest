@@ -1,6 +1,6 @@
 {
   "id": "/s/remdisk-kazan-kzn/owner/",
-  "name": "Ремдиск_Казань: кабинет",
+  "name": "Ремдиск Казань: кабинет",
   "short_name": "Кабинет",
   "description": "Записи, посты и статистика студии",
   "lang": "ru",
@@ -8,8 +8,8 @@
   "scope": "/s/remdisk-kazan-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F5F5F2",
-  "theme_color": "#F5F5F2",
+  "background_color": "#0A0A08",
+  "theme_color": "#0A0A08",
   "icons": [
     {
       "src": "/tenants/remdisk-kazan-kzn/icons/icon-192.png",

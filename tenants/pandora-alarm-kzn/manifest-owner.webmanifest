@@ -1,6 +1,6 @@
 {
   "id": "/s/pandora-alarm-kzn/owner/",
-  "name": "Pandora_Alarm_Kzn: кабинет",
+  "name": "Pandora Alarm: кабинет",
   "short_name": "Кабинет",
   "description": "Записи, посты и статистика студии",
   "lang": "ru",
@@ -8,8 +8,8 @@
   "scope": "/s/pandora-alarm-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F6F6F3",
-  "theme_color": "#F6F6F3",
+  "background_color": "#0B0A09",
+  "theme_color": "#0B0A09",
   "icons": [
     {
       "src": "/tenants/pandora-alarm-kzn/icons/icon-192.png",

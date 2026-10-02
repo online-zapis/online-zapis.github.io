@@ -1,15 +1,15 @@
 {
   "id": "/s/avtoservis-16-kzn/",
   "name": "Автосервис 16",
-  "short_name": "Автосервис 1",
+  "short_name": "Автосервис",
   "description": "Шиномонтаж, легковой автосервис, замена масла в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/avtoservis-16-kzn/",
   "scope": "/s/avtoservis-16-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/avtoservis-16-kzn/icons/icon-192.png",

@@ -1,15 +1,15 @@
 {
   "id": "/s/na-vorovskogo-kzn/",
   "name": "На Воровского",
-  "short_name": "На Воровског",
+  "short_name": "Воровского",
   "description": "Автомойки, шиномонтаж в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/na-vorovskogo-kzn/",
   "scope": "/s/na-vorovskogo-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/na-vorovskogo-kzn/icons/icon-192.png",

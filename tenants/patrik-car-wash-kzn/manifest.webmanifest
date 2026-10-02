@@ -1,15 +1,15 @@
 {
   "id": "/s/patrik-car-wash-kzn/",
   "name": "Patrik car wash",
-  "short_name": "Patrik car w",
+  "short_name": "Patrik car",
   "description": "Автомойки в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/patrik-car-wash-kzn/",
   "scope": "/s/patrik-car-wash-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F6F6F3",
-  "theme_color": "#F6F6F3",
+  "background_color": "#0B0A09",
+  "theme_color": "#0B0A09",
   "icons": [
     {
       "src": "/tenants/patrik-car-wash-kzn/icons/icon-192.png",

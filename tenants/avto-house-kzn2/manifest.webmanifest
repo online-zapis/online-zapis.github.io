@@ -8,8 +8,8 @@
   "scope": "/s/avto-house-kzn2/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F5F5F2",
-  "theme_color": "#F5F5F2",
+  "background_color": "#0A0A08",
+  "theme_color": "#0A0A08",
   "icons": [
     {
       "src": "/tenants/avto-house-kzn2/icons/icon-192.png",

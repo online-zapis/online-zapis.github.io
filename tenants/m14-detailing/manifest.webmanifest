@@ -8,8 +8,8 @@
   "scope": "/s/m14-detailing/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F6F6F3",
-  "theme_color": "#F6F6F3",
+  "background_color": "#0B0A09",
+  "theme_color": "#0B0A09",
   "icons": [
     {
       "src": "/tenants/m14-detailing/icons/icon-192.png",

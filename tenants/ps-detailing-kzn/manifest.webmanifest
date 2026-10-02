@@ -8,8 +8,8 @@
   "scope": "/s/ps-detailing-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F2F4F7",
-  "theme_color": "#F2F4F7",
+  "background_color": "#05090A",
+  "theme_color": "#05090A",
   "icons": [
     {
       "src": "/tenants/ps-detailing-kzn/icons/icon-192.png",

@@ -1,15 +1,15 @@
 {
   "id": "/s/crystal-cars/",
   "name": "Crystal cars",
-  "short_name": "Crystal",
+  "short_name": "Crystal cars",
   "description": "Детейлинг в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/crystal-cars/",
   "scope": "/s/crystal-cars/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/crystal-cars/icons/icon-192.png",

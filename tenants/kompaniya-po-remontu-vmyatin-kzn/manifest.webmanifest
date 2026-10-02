@@ -1,15 +1,15 @@
 {
   "id": "/s/kompaniya-po-remontu-vmyatin-kzn/",
   "name": "Компания по ремонту вмятин без покраски",
-  "short_name": "Компания по",
+  "short_name": "Компания",
   "description": "Детейлинг, кузовной ремонт в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/kompaniya-po-remontu-vmyatin-kzn/",
   "scope": "/s/kompaniya-po-remontu-vmyatin-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F2F4F7",
-  "theme_color": "#F2F4F7",
+  "background_color": "#05090A",
+  "theme_color": "#05090A",
   "icons": [
     {
       "src": "/tenants/kompaniya-po-remontu-vmyatin-kzn/icons/icon-192.png",

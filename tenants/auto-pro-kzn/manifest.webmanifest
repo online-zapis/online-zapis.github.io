@@ -8,8 +8,8 @@
   "scope": "/s/auto-pro-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/auto-pro-kzn/icons/icon-192.png",

@@ -1,15 +1,15 @@
 {
   "id": "/s/anb-garage-kzn/",
-  "name": "Anb_garage",
-  "short_name": "Anb_garage",
+  "name": "Anb garage",
+  "short_name": "Anb garage",
   "description": "Детейлинг в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/anb-garage-kzn/",
   "scope": "/s/anb-garage-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/anb-garage-kzn/icons/icon-192.png",

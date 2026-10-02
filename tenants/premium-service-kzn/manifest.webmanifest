@@ -1,15 +1,15 @@
 {
   "id": "/s/premium-service-kzn/",
   "name": "Premium Service",
-  "short_name": "Premium Serv",
+  "short_name": "Premium",
   "description": "Шиномонтаж, легковой автосервис, замена масла в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/premium-service-kzn/",
   "scope": "/s/premium-service-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F5F5F2",
-  "theme_color": "#F5F5F2",
+  "background_color": "#0A0A08",
+  "theme_color": "#0A0A08",
   "icons": [
     {
       "src": "/tenants/premium-service-kzn/icons/icon-192.png",

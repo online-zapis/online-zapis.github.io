@@ -1,15 +1,15 @@
 {
   "id": "/s/avto-lyuks-servis-kzn/",
   "name": "Авто-люкс-сервис",
-  "short_name": "Авто-люкс-се",
+  "short_name": "Авто-люкс",
   "description": "Автомойки, развал-схождение, шиномонтаж в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/avto-lyuks-servis-kzn/",
   "scope": "/s/avto-lyuks-servis-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/avto-lyuks-servis-kzn/icons/icon-192.png",

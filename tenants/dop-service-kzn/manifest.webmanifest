@@ -8,8 +8,8 @@
   "scope": "/s/dop-service-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F6F6F3",
-  "theme_color": "#F6F6F3",
+  "background_color": "#0B0A09",
+  "theme_color": "#0B0A09",
   "icons": [
     {
       "src": "/tenants/dop-service-kzn/icons/icon-192.png",

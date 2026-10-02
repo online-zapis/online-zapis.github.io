@@ -1,15 +1,15 @@
 {
   "id": "/s/avtomoyka-i-servis-deteyling-kzn/",
   "name": "Автомойка и сервис детейлинга",
-  "short_name": "Автомойка и",
+  "short_name": "Автомойка",
   "description": "Автомойки, детейлинг, кузовной ремонт в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/avtomoyka-i-servis-deteyling-kzn/",
   "scope": "/s/avtomoyka-i-servis-deteyling-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/avtomoyka-i-servis-deteyling-kzn/icons/icon-192.png",

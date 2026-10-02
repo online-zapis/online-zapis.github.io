@@ -1,15 +1,15 @@
 {
   "id": "/s/prosto-deteyling-kzn/",
   "name": "Просто Детейлинг",
-  "short_name": "Просто Детей",
+  "short_name": "Просто",
   "description": "Детейлинг, тюнинг, тонирование автостёкол в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/prosto-deteyling-kzn/",
   "scope": "/s/prosto-deteyling-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F6F6F3",
-  "theme_color": "#F6F6F3",
+  "background_color": "#0B0A09",
+  "theme_color": "#0B0A09",
   "icons": [
     {
       "src": "/tenants/prosto-deteyling-kzn/icons/icon-192.png",

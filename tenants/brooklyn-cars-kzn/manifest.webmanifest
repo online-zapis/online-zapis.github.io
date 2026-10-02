@@ -1,15 +1,15 @@
 {
   "id": "/s/brooklyn-cars-kzn/",
-  "name": "Brooklyn_cars",
-  "short_name": "Brooklyn_car",
+  "name": "Brooklyn cars",
+  "short_name": "Brooklyn",
   "description": "Шиномонтаж, легковой автосервис, компьютерная диагностика автомобилей в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/brooklyn-cars-kzn/",
   "scope": "/s/brooklyn-cars-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/brooklyn-cars-kzn/icons/icon-192.png",

@@ -1,15 +1,15 @@
 {
   "id": "/s/pdr-servis-rus-kzn/",
   "name": "Pdr Servis Rus",
-  "short_name": "Pdr Servis R",
+  "short_name": "Pdr Servis",
   "description": "Детейлинг, кузовной ремонт в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/pdr-servis-rus-kzn/",
   "scope": "/s/pdr-servis-rus-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/pdr-servis-rus-kzn/icons/icon-192.png",

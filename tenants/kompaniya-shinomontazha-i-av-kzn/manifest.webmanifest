@@ -1,15 +1,15 @@
 {
   "id": "/s/kompaniya-shinomontazha-i-av-kzn/",
   "name": "Компания шиномонтажа и автосервиса",
-  "short_name": "Компания шин",
+  "short_name": "Компания",
   "description": "Детейлинг, шиномонтаж, ремонт дизельных двигателей в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/kompaniya-shinomontazha-i-av-kzn/",
   "scope": "/s/kompaniya-shinomontazha-i-av-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/kompaniya-shinomontazha-i-av-kzn/icons/icon-192.png",

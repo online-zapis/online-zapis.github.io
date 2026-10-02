@@ -1,15 +1,15 @@
 {
   "id": "/s/bosch-service-amb-kzn/",
   "name": "Bosch service amb",
-  "short_name": "Bosch servic",
+  "short_name": "Bosch",
   "description": "Шиномонтаж, легковой автосервис, запчасти для иномарок в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/bosch-service-amb-kzn/",
   "scope": "/s/bosch-service-amb-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0C0D0B",
-  "theme_color": "#0C0D0B",
+  "background_color": "#0B0C0A",
+  "theme_color": "#0B0C0A",
   "icons": [
     {
       "src": "/tenants/bosch-service-amb-kzn/icons/icon-192.png",

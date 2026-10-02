@@ -1,15 +1,15 @@
 {
   "id": "/s/kristall-plyus-kzn/",
   "name": "Кристалл Плюс",
-  "short_name": "Кристалл Плю",
+  "short_name": "Кристалл",
   "description": "Автомойки в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/kristall-plyus-kzn/",
   "scope": "/s/kristall-plyus-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/kristall-plyus-kzn/icons/icon-192.png",

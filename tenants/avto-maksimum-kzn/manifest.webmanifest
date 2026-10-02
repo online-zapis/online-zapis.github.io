@@ -1,15 +1,15 @@
 {
   "id": "/s/avto-maksimum-kzn/",
   "name": "Авто-максимум",
-  "short_name": "Авто-максиму",
+  "short_name": "Авто",
   "description": "Детейлинг, установка и ремонт автостёкол в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/avto-maksimum-kzn/",
   "scope": "/s/avto-maksimum-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/avto-maksimum-kzn/icons/icon-192.png",

@@ -1,15 +1,15 @@
 {
   "id": "/s/ton-and-bro-kzn/",
-  "name": "Ton_and_bro_kzn",
-  "short_name": "Ton_and_bro_",
+  "name": "Ton and bro",
+  "short_name": "Ton and bro",
   "description": "Детейлинг, тонирование стёкол зданий, тонирование автостёкол в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/ton-and-bro-kzn/",
   "scope": "/s/ton-and-bro-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0C0D0B",
-  "theme_color": "#0C0D0B",
+  "background_color": "#0B0C0A",
+  "theme_color": "#0B0C0A",
   "icons": [
     {
       "src": "/tenants/ton-and-bro-kzn/icons/icon-192.png",

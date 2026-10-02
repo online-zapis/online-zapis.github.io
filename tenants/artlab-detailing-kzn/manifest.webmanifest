@@ -1,15 +1,15 @@
 {
   "id": "/s/artlab-detailing-kzn/",
   "name": "Artlab detailing",
-  "short_name": "Artlab detai",
+  "short_name": "Artlab",
   "description": "Детейлинг, тюнинг, тонирование автостёкол в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/artlab-detailing-kzn/",
   "scope": "/s/artlab-detailing-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/artlab-detailing-kzn/icons/icon-192.png",

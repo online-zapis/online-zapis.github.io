@@ -8,8 +8,8 @@
   "scope": "/s/arcar116/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0C0D0B",
-  "theme_color": "#0C0D0B",
+  "background_color": "#0B0C0A",
+  "theme_color": "#0B0C0A",
   "icons": [
     {
       "src": "/tenants/arcar116/icons/icon-192.png",

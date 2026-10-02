@@ -1,6 +1,6 @@
 {
   "id": "/s/brooklyn-cars-kzn/owner/",
-  "name": "Brooklyn_cars: кабинет",
+  "name": "Brooklyn cars: кабинет",
   "short_name": "Кабинет",
   "description": "Записи, посты и статистика студии",
   "lang": "ru",
@@ -8,8 +8,8 @@
   "scope": "/s/brooklyn-cars-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/brooklyn-cars-kzn/icons/icon-192.png",

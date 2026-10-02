@@ -1,6 +1,6 @@
 {
   "id": "/s/zona-detailing/",
-  "name": "Zona_detailing_kzn",
+  "name": "Zona detailing",
   "short_name": "Zona",
   "description": "Детейлинг, тонирование автостёкол в Казани. Запись онлайн без звонка.",
   "lang": "ru",
@@ -8,8 +8,8 @@
   "scope": "/s/zona-detailing/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/zona-detailing/icons/icon-192.png",

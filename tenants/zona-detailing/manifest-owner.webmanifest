@@ -1,6 +1,6 @@
 {
   "id": "/s/zona-detailing/owner/",
-  "name": "Zona_detailing_kzn: кабинет",
+  "name": "Zona detailing: кабинет",
   "short_name": "Кабинет",
   "description": "Записи, посты и статистика студии",
   "lang": "ru",
@@ -8,8 +8,8 @@
   "scope": "/s/zona-detailing/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/zona-detailing/icons/icon-192.png",

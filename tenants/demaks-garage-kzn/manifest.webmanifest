@@ -1,15 +1,15 @@
 {
   "id": "/s/demaks-garage-kzn/",
   "name": "Demaks-garage",
-  "short_name": "Demaks-garag",
+  "short_name": "Demaks",
   "description": "Детейлинг, тонирование автостёкол, установка и ремонт автооптики в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/demaks-garage-kzn/",
   "scope": "/s/demaks-garage-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0C0D0B",
-  "theme_color": "#0C0D0B",
+  "background_color": "#0B0C0A",
+  "theme_color": "#0B0C0A",
   "icons": [
     {
       "src": "/tenants/demaks-garage-kzn/icons/icon-192.png",

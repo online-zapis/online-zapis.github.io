@@ -1,15 +1,15 @@
 {
   "id": "/s/deteyling-tsentr-kzn/",
   "name": "Детейлинг-центр",
-  "short_name": "Детейлинг-це",
+  "short_name": "Детейлинг",
   "description": "Автомойки, детейлинг в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/deteyling-tsentr-kzn/",
   "scope": "/s/deteyling-tsentr-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/deteyling-tsentr-kzn/icons/icon-192.png",

@@ -1,15 +1,15 @@
 {
   "id": "/s/avtostekla-rf-kzn/",
   "name": "Автостёкла.рф",
-  "short_name": "Автостёкла.р",
+  "short_name": "Автостёкла",
   "description": "Тонирование автостёкол, установка и ремонт автостёкол, автостекло в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/avtostekla-rf-kzn/",
   "scope": "/s/avtostekla-rf-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0C0D0B",
-  "theme_color": "#0C0D0B",
+  "background_color": "#0B0C0A",
+  "theme_color": "#0B0C0A",
   "icons": [
     {
       "src": "/tenants/avtostekla-rf-kzn/icons/icon-192.png",

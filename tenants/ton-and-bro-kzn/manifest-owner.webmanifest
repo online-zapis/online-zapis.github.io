@@ -1,6 +1,6 @@
 {
   "id": "/s/ton-and-bro-kzn/owner/",
-  "name": "Ton_and_bro_kzn: кабинет",
+  "name": "Ton and bro: кабинет",
   "short_name": "Кабинет",
   "description": "Записи, посты и статистика студии",
   "lang": "ru",
@@ -8,8 +8,8 @@
   "scope": "/s/ton-and-bro-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0C0D0B",
-  "theme_color": "#0C0D0B",
+  "background_color": "#0B0C0A",
+  "theme_color": "#0B0C0A",
   "icons": [
     {
       "src": "/tenants/ton-and-bro-kzn/icons/icon-192.png",

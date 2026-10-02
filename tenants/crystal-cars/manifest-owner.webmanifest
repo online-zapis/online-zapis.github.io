@@ -8,8 +8,8 @@
   "scope": "/s/crystal-cars/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#050506",
-  "theme_color": "#050506",
+  "background_color": "#06070A",
+  "theme_color": "#06070A",
   "icons": [
     {
       "src": "/tenants/crystal-cars/icons/icon-192.png",

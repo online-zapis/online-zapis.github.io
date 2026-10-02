@@ -1,6 +1,6 @@
 {
   "id": "/s/anb-garage-kzn/owner/",
-  "name": "Anb_garage: кабинет",
+  "name": "Anb garage: кабинет",
   "short_name": "Кабинет",
   "description": "Записи, посты и статистика студии",
   "lang": "ru",
@@ -8,8 +8,8 @@
   "scope": "/s/anb-garage-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/anb-garage-kzn/icons/icon-192.png",

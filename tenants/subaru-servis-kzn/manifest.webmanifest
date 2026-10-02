@@ -1,15 +1,15 @@
 {
   "id": "/s/subaru-servis-kzn/",
   "name": "Субару сервис",
-  "short_name": "Субару серви",
+  "short_name": "Субару",
   "description": "Шиномонтаж, легковой автосервис, ремонт бензиновых двигателей в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/subaru-servis-kzn/",
   "scope": "/s/subaru-servis-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/subaru-servis-kzn/icons/icon-192.png",

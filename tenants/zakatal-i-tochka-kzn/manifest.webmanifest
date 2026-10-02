@@ -1,15 +1,15 @@
 {
   "id": "/s/zakatal-i-tochka-kzn/",
   "name": "Закатал и точка",
-  "short_name": "Закатал и то",
+  "short_name": "Закатал",
   "description": "Автомойки, детейлинг, тонирование автостёкол в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/zakatal-i-tochka-kzn/",
   "scope": "/s/zakatal-i-tochka-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0C",
-  "theme_color": "#0A0A0C",
+  "background_color": "#0A0909",
+  "theme_color": "#0A0909",
   "icons": [
     {
       "src": "/tenants/zakatal-i-tochka-kzn/icons/icon-192.png",

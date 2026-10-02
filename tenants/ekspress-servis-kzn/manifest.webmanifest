@@ -1,15 +1,15 @@
 {
   "id": "/s/ekspress-servis-kzn/",
   "name": "Экспресс-сервис",
-  "short_name": "Экспресс-сер",
+  "short_name": "Экспресс",
   "description": "Шиномонтаж, легковой автосервис, автосигнализации в Казани. Запись онлайн без звонка.",
   "lang": "ru",
   "start_url": "/s/ekspress-servis-kzn/",
   "scope": "/s/ekspress-servis-kzn/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F2F4F7",
-  "theme_color": "#F2F4F7",
+  "background_color": "#05090A",
+  "theme_color": "#05090A",
   "icons": [
     {
       "src": "/tenants/ekspress-servis-kzn/icons/icon-192.png",
