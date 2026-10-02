@@ -1,0 +1,33 @@
+{
+  "id": "/s/rodina-motors-kzn/",
+  "name": "Родина моторс",
+  "short_name": "Родина мотор",
+  "description": "Шиномонтаж, легковой автосервис, замена масла в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/rodina-motors-kzn/",
+  "scope": "/s/rodina-motors-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/rodina-motors-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/rodina-motors-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/rodina-motors-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

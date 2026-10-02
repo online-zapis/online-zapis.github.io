@@ -1,0 +1,33 @@
+{
+  "id": "/s/nadezhnye-lyudi-kzn/",
+  "name": "Надежные люди",
+  "short_name": "Надежные люд",
+  "description": "Детейлинг, кузовной ремонт, автомойки в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/nadezhnye-lyudi-kzn/",
+  "scope": "/s/nadezhnye-lyudi-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "icons": [
+    {
+      "src": "/tenants/nadezhnye-lyudi-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/nadezhnye-lyudi-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/nadezhnye-lyudi-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

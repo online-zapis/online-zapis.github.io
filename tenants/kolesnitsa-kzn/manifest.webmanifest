@@ -1,0 +1,33 @@
+{
+  "id": "/s/kolesnitsa-kzn/",
+  "name": "Колесница",
+  "short_name": "Колесница",
+  "description": "Шиномонтаж, обслуживание автомобильных климатических систем в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/kolesnitsa-kzn/",
+  "scope": "/s/kolesnitsa-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/kolesnitsa-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/kolesnitsa-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/kolesnitsa-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

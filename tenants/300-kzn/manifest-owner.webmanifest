@@ -1,0 +1,33 @@
+{
+  "id": "/s/300-kzn/owner/",
+  "name": "300: кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи, посты и статистика студии",
+  "lang": "ru",
+  "start_url": "/s/300-kzn/owner/",
+  "scope": "/s/300-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/300-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/300-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/300-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "/s/akm-studio-kzn/",
+  "name": "Akm-studio",
+  "short_name": "Akm-studio",
+  "description": "Детейлинг в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/akm-studio-kzn/",
+  "scope": "/s/akm-studio-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/akm-studio-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/akm-studio-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/akm-studio-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "/s/baza-n1-kzn/owner/",
+  "name": "Baza n1: кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи, посты и статистика студии",
+  "lang": "ru",
+  "start_url": "/s/baza-n1-kzn/owner/",
+  "scope": "/s/baza-n1-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F5F2",
+  "theme_color": "#F5F5F2",
+  "icons": [
+    {
+      "src": "/tenants/baza-n1-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/baza-n1-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/baza-n1-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

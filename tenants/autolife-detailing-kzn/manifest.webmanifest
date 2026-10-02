@@ -1,0 +1,33 @@
+{
+  "id": "/s/autolife-detailing-kzn/",
+  "name": "Autolife detailing",
+  "short_name": "Autolife det",
+  "description": "Детейлинг в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/autolife-detailing-kzn/",
+  "scope": "/s/autolife-detailing-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F4F7",
+  "theme_color": "#F2F4F7",
+  "icons": [
+    {
+      "src": "/tenants/autolife-detailing-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/autolife-detailing-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/autolife-detailing-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

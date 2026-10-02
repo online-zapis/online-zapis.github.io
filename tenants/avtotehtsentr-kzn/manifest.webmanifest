@@ -1,0 +1,33 @@
+{
+  "id": "/s/avtotehtsentr-kzn/",
+  "name": "Автотехцентр",
+  "short_name": "Автотехцентр",
+  "description": "Автомойки, шиномонтаж, ремонт ходовой части автомобиля в с. Большие Ключи. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/avtotehtsentr-kzn/",
+  "scope": "/s/avtotehtsentr-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F5F2",
+  "theme_color": "#F5F5F2",
+  "icons": [
+    {
+      "src": "/tenants/avtotehtsentr-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/avtotehtsentr-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/avtotehtsentr-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

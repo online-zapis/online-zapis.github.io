@@ -1,0 +1,33 @@
+{
+  "id": "/s/mashinka-kzn/",
+  "name": "Машинка",
+  "short_name": "Машинка",
+  "description": "Детейлинг, шиномонтаж, обслуживание автомобильных климатических систем в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/mashinka-kzn/",
+  "scope": "/s/mashinka-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "icons": [
+    {
+      "src": "/tenants/mashinka-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/mashinka-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/mashinka-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "/s/abro-kzn/owner/",
+  "name": "Абро: кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи, посты и статистика студии",
+  "lang": "ru",
+  "start_url": "/s/abro-kzn/owner/",
+  "scope": "/s/abro-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/abro-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/abro-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/abro-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

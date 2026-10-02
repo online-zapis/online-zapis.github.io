@@ -1,0 +1,33 @@
+{
+  "id": "/s/ultra-kzn2/",
+  "name": "Ultra",
+  "short_name": "Ultra",
+  "description": "Тонирование автостёкол, установка и ремонт автостёкол, тюнинг в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/ultra-kzn2/",
+  "scope": "/s/ultra-kzn2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F6F3",
+  "theme_color": "#F6F6F3",
+  "icons": [
+    {
+      "src": "/tenants/ultra-kzn2/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/ultra-kzn2/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/ultra-kzn2/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

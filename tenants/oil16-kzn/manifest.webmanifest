@@ -1,0 +1,33 @@
+{
+  "id": "/s/oil16-kzn/",
+  "name": "Oil16",
+  "short_name": "Oil16",
+  "description": "Шиномонтаж, легковой автосервис, автохимия в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/oil16-kzn/",
+  "scope": "/s/oil16-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F4F7",
+  "theme_color": "#F2F4F7",
+  "icons": [
+    {
+      "src": "/tenants/oil16-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/oil16-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/oil16-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

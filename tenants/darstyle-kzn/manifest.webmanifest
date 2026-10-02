@@ -1,0 +1,33 @@
+{
+  "id": "/s/darstyle-kzn/",
+  "name": "Darstyle",
+  "short_name": "Darstyle",
+  "description": "Детейлинг, тюнинг, тонирование автостёкол в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/darstyle-kzn/",
+  "scope": "/s/darstyle-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F5F2",
+  "theme_color": "#F5F5F2",
+  "icons": [
+    {
+      "src": "/tenants/darstyle-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/darstyle-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/darstyle-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

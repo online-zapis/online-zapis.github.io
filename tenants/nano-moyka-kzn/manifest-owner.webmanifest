@@ -1,0 +1,33 @@
+{
+  "id": "/s/nano-moyka-kzn/owner/",
+  "name": "Нано Мойка: кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи, посты и статистика студии",
+  "lang": "ru",
+  "start_url": "/s/nano-moyka-kzn/owner/",
+  "scope": "/s/nano-moyka-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F6F3",
+  "theme_color": "#F6F6F3",
+  "icons": [
+    {
+      "src": "/tenants/nano-moyka-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/nano-moyka-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/nano-moyka-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

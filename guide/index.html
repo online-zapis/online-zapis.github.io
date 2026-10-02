@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Кабинет студии: инструкция</title>
+<meta name="description" content="Как пользоваться кабинетом онлайн-записи: записи, перенос, оплата, цены, фото, уведомления.">
+<style>
+  :root { --bg: #f6f6f3; --card: #fff; --fg: #17171a; --mute: #5f5f66; --line: #e2e2dd; --accent: #2457f5; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #0b0b0d; --card: #151518; --fg: #f4f4f5; --mute: #a1a1aa; --line: #2a2a30; --accent: #6aa6ff; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 80px; }
+  h1 { font-size: clamp(28px, 6vw, 40px); line-height: 1.1; letter-spacing: -0.02em; margin: 0 0 8px; text-wrap: balance; }
+  .lead { color: var(--mute); margin: 0 0 24px; }
+  nav.toc { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 28px; }
+  nav.toc a { background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; color: var(--fg); text-decoration: none; font-size: 14px; }
+  nav.toc a:hover { border-color: var(--accent); }
+  section { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 20px 22px; margin: 0 0 14px; scroll-margin-top: 16px; }
+  h2 { font-size: 20px; margin: 0 0 10px; letter-spacing: -0.01em; }
+  ol, ul { margin: 0; padding-left: 22px; }
+  li { margin: 6px 0; }
+  p { margin: 8px 0; }
+  .muted { color: var(--mute); }
+  b.btn { display: inline-block; border: 1px solid var(--line); border-radius: 8px; padding: 0 7px; font-weight: 600; white-space: nowrap; }
+  .tip { border-left: 3px solid var(--accent); padding: 4px 0 4px 12px; color: var(--mute); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Кабинет студии: как пользоваться</h1>
+  <p class="lead">Кабинет открывается по ссылке, которую вам прислали: <span class="muted">адрес-сайта/s/ваша-студия/owner/</span>. Вход — почта и пароль.</p>
+
+  <nav class="toc" aria-label="Разделы">
+    <a href="#app">Приложение и уведомления</a>
+    <a href="#bookings">Записи</a>
+    <a href="#booking">Одна запись</a>
+    <a href="#new">Запись по звонку</a>
+    <a href="#boxes">Боксы</a>
+    <a href="#studio">Цены, часы, фото</a>
+    <a href="#stats">Цифры</a>
+    <a href="#password">Пароль</a>
+  </nav>
+
+  <section id="app">
+    <h2>1. Поставьте кабинет на телефон как приложение</h2>
+    <p>Так он открывается в одно касание, а о новых записях приходят уведомления.</p>
+    <ul>
+      <li><b>Android (Chrome):</b> откройте кабинет → меню ⋮ → <b class="btn">Добавить на главный экран</b> или <b class="btn">Установить приложение</b>.</li>
+      <li><b>iPhone (Safari):</b> откройте кабинет → кнопка «Поделиться» □↑ → <b class="btn">На экран «Домой»</b>. На iPhone уведомления приходят только в установленном так приложении.</li>
+    </ul>
+    <p>Затем в кабинете: <b class="btn">Ещё</b> → <b class="btn">Включить на этом устройстве</b> → разрешите уведомления. Повторите на каждом телефоне, где нужны уведомления.</p>
+  </section>
+
+  <section id="bookings">
+    <h2>2. Записи на день и неделю</h2>
+    <ul>
+      <li>Вкладка <b class="btn">Записи</b> — список на выбранный день. Переключатель <b class="btn">День</b> / <b class="btn">Неделя</b> вверху.</li>
+      <li>Стрелки ‹ › листают дни или недели. Нажмите на дату посередине, чтобы вернуться к сегодня.</li>
+      <li>Сверху видно: сколько машин приехало, сколько готово и сколько денег получено за период.</li>
+      <li>Список обновляется сам каждые 30 секунд.</li>
+    </ul>
+  </section>
+
+  <section id="booking">
+    <h2>3. Работа с одной записью</h2>
+    <p>Нажмите на запись — откроется карточка: клиент, телефон, машина, время, бокс.</p>
+    <ol>
+      <li><b class="btn">Позвонить</b> или <b class="btn">WhatsApp</b> — связаться с клиентом.</li>
+      <li><b class="btn">Подтвердить</b> — вы приняли запись. Клиент видит статус у себя.</li>
+      <li><b class="btn">Машина принята</b> — клиент приехал. <b class="btn">Машина готова</b> — работа сделана. <b class="btn">Не приехал</b> — если клиент не пришёл.</li>
+      <li><b class="btn">Перенести</b> — выберите новое время (и при желании другой бокс).</li>
+      <li><b class="btn">Отменить</b> — с причиной; время освобождается для других.</li>
+      <li><b>Оплата:</b> впишите сумму, выберите <b class="btn">Карта</b>, <b class="btn">Наличные</b> или <b class="btn">Перевод</b> → <b class="btn">Принять оплату</b>. Когда оплачено всё — появится «Оплачено полностью».</li>
+      <li><b>Возврат:</b> <b class="btn">Вернуть деньги клиенту</b> → сумма → <b class="btn">Отметить возврат</b>. Сайт деньги не переводит — это отметка для учёта, сумма вычтется из полученного.</li>
+      <li><b>Заметка для себя</b> — видна только вам (например, «скол на капоте до работ»).</li>
+    </ol>
+  </section>
+
+  <section id="new">
+    <h2>4. Запись по звонку</h2>
+    <p>На вкладке <b class="btn">Записи</b> нажмите <b class="btn">+</b> → услуга, дата, время, имя и телефон клиента → <b class="btn">Записать</b>. Занятое время не предложится, двойных записей не будет.</p>
+  </section>
+
+  <section id="boxes">
+    <h2>5. Боксы и блокировки</h2>
+    <p>Вкладка <b class="btn">Боксы</b> показывает загрузку каждого бокса по часам. Если бокс на ремонте или мастер выходной — <b class="btn">Заблокировать</b> на нужное время: клиенты не смогут туда записаться.</p>
+  </section>
+
+  <section id="studio">
+    <h2>6. Цены, часы, фото — меняете сами</h2>
+    <p>Вкладка <b class="btn">Студия</b>:</p>
+    <ul>
+      <li><b>Услуги и цены</b> — название, цена (или «от»), длительность, на каких боксах делается. Цена 0 — «цена по запросу».</li>
+      <li><b>Часы приёма машин</b> и <b>Выходные и особые дни</b> — праздники, короткие дни.</li>
+      <li><b>Боксы</b> — сколько машин одновременно.</li>
+      <li><b>Адрес и телефон</b>, <b>Три карточки на главной</b> — что видят клиенты.</li>
+      <li><b>Главное фото и логотип</b>, <b>Фото работ</b> — добавить новое фото, заменить конкретное или поменять подпись; остальные фото не трогаются.</li>
+    </ul>
+    <p class="tip">Изменения видны на сайте сразу. Если что-то не получается — напишите разработчику, поменяет за вас.</p>
+  </section>
+
+  <section id="stats">
+    <h2>7. Цифры</h2>
+    <p>Вкладка <b class="btn">Цифры</b>: сколько машин приехало, сколько услуг выполнено и сколько получено денег по дням — за выбранный период.</p>
+  </section>
+
+  <section id="password">
+    <h2>8. Пароль и выход</h2>
+    <p>Пароль, который вам прислали, смените при первой возможности (попросите разработчика, если в кабинете нет кнопки смены). Не передавайте вход посторонним. Выйти: <b class="btn">Ещё</b> → <b class="btn">Выйти</b>.</p>
+  </section>
+</main>
+</body>
+</html>

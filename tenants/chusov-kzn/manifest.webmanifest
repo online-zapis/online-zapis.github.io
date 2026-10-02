@@ -1,0 +1,33 @@
+{
+  "id": "/s/chusov-kzn/",
+  "name": "Chusov",
+  "short_name": "Chusov",
+  "description": "Шиномонтаж, ремонт и тюнинг мототехники в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/chusov-kzn/",
+  "scope": "/s/chusov-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/chusov-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/chusov-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/chusov-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

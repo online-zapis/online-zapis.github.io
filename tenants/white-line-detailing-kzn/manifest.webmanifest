@@ -1,0 +1,33 @@
+{
+  "id": "/s/white-line-detailing-kzn/",
+  "name": "White Line Detailing",
+  "short_name": "White Line D",
+  "description": "Детейлинг, тонирование автостёкол, установка и ремонт автооптики в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/white-line-detailing-kzn/",
+  "scope": "/s/white-line-detailing-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F4F7",
+  "theme_color": "#F2F4F7",
+  "icons": [
+    {
+      "src": "/tenants/white-line-detailing-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/white-line-detailing-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/white-line-detailing-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

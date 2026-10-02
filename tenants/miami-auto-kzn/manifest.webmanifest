@@ -1,0 +1,33 @@
+{
+  "id": "/s/miami-auto-kzn/",
+  "name": "Miami auto",
+  "short_name": "Miami auto",
+  "description": "Детейлинг, тонирование автостёкол, тюнинг в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/miami-auto-kzn/",
+  "scope": "/s/miami-auto-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F5F2",
+  "theme_color": "#F5F5F2",
+  "icons": [
+    {
+      "src": "/tenants/miami-auto-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/miami-auto-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/miami-auto-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

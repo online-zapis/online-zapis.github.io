@@ -1,0 +1,1 @@
+async function n(r){if(!("serviceWorker"in navigator))return null;try{return await navigator.serviceWorker.register(`/s/${r}/sw.js`,{scope:`/s/${r}/`})}catch(e){return console.warn("SW не зарегистрирован",e),null}}async function t(r){return"serviceWorker"in navigator?await navigator.serviceWorker.getRegistration(`/s/${r}/`)??null:null}export{n as r,t};

@@ -1,0 +1,33 @@
+{
+  "id": "/s/express-parts-kzn/owner/",
+  "name": "Express Parts: кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи, посты и статистика студии",
+  "lang": "ru",
+  "start_url": "/s/express-parts-kzn/owner/",
+  "scope": "/s/express-parts-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "icons": [
+    {
+      "src": "/tenants/express-parts-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/express-parts-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/express-parts-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

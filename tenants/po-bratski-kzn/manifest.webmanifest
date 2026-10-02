@@ -1,0 +1,33 @@
+{
+  "id": "/s/po-bratski-kzn/",
+  "name": "По-братски",
+  "short_name": "По-братски",
+  "description": "Шиномонтаж в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/po-bratski-kzn/",
+  "scope": "/s/po-bratski-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F6F3",
+  "theme_color": "#F6F6F3",
+  "icons": [
+    {
+      "src": "/tenants/po-bratski-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/po-bratski-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/po-bratski-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

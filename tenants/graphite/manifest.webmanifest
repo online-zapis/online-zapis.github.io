@@ -1,0 +1,33 @@
+{
+  "id": "/s/graphite/",
+  "name": "GRAPHITE Detailing",
+  "short_name": "GRAPHITE",
+  "description": "Выберите услугу и свободное время. Подтверждение приходит сразу.",
+  "lang": "ru",
+  "start_url": "/s/graphite/",
+  "scope": "/s/graphite/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/graphite/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/graphite/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/graphite/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

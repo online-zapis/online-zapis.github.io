@@ -1,0 +1,33 @@
+{
+  "id": "/s/auto-pro-kzn/",
+  "name": "Auto pro",
+  "short_name": "Auto pro",
+  "description": "Детейлинг, кузовной ремонт в Казани. Запись онлайн без звонка.",
+  "lang": "ru",
+  "start_url": "/s/auto-pro-kzn/",
+  "scope": "/s/auto-pro-kzn/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/auto-pro-kzn/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/auto-pro-kzn/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/auto-pro-kzn/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

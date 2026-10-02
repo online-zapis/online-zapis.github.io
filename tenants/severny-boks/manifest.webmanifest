@@ -1,0 +1,33 @@
+{
+  "id": "/s/severny-boks/",
+  "name": "Северный Бокс",
+  "short_name": "Сев. Бокс",
+  "description": "Два мастера, свой бокс. Запишитесь на удобное время по Екатеринбургу.",
+  "lang": "ru",
+  "start_url": "/s/severny-boks/",
+  "scope": "/s/severny-boks/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    {
+      "src": "/tenants/severny-boks/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/severny-boks/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tenants/severny-boks/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
